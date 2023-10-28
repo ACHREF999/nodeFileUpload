@@ -1,0 +1,6 @@
+------WebKitFormBoundaryn2RzaBMkUA3MR3LK
+Content-Disposition: form-data; name="myFile"; filename="asdsad.json"
+Content-Type: application/json
+
+[{"product":{"id":11,"name":"Black Americano","price":1.5,"description":"Freshly pulled shots of espresso combined with hot water.","image":"blackamericano.png"},"quantity":2}]
+------WebKitFormBoundaryn2RzaBMkUA3MR3LK--

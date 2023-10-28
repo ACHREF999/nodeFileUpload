@@ -1,0 +1,16 @@
+{
+  "name": "file-upload",
+  "version": "1.0.0",
+  "description": "devfest 2223 challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "ACHREF999",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^3.5.1",
+    "nodemon": "^3.0.1"
+  }
+}
